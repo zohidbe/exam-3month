@@ -1,1 +1,195 @@
-/*# sourceMappingURL=main.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap");
+.three-cards-div-ds {
+  width: 1240px;
+  height: 341px;
+  border-radius: 20px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  margin: auto;
+  margin-top: 67px;
+  box-shadow: 0, 0, 0, 0.15;
+}
+
+.fathers-cards {
+  position: relative;
+  top: 40px;
+  margin-top: 10px;
+  display: flex;
+  margin: auto;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  gap: 200px;
+}
+.fathers-cards .card-1-smal {
+  width: 228px;
+  height: 245px;
+}
+.fathers-cards .card-1-smal .card-1-smal {
+  width: 228px;
+  height: 245px;
+}
+
+.card-1-smal p {
+  width: 225px;
+  height: 65px;
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+.card-2-smal {
+  width: 228px;
+  height: 245px;
+}
+
+.card-2-smal h4 {
+  font-family: Exo 2;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  width: 228px;
+  height: 48px;
+}
+
+.card-2-smal p {
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  width: 225px;
+  height: 65px;
+}
+
+.card-3-smal {
+  width: 228px;
+  height: 245px;
+}
+
+.card-3-smal h4 {
+  font-family: Exo 2;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  width: 228px;
+  height: 48px;
+}
+
+.card-3-smal p {
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  width: 225px;
+  height: 65px;
+}
+
+.fathers-cards {
+  padding: 40 80;
+}
+
+.why-us-card {
+  width: 1242px;
+  height: 748px;
+  background-color: black;
+  margin: auto;
+}
+
+.blue-png {
+  position: relative;
+  top: 0;
+  width: 1240px;
+  height: 453px;
+  background-color: burlywood;
+  background-image: url(/img/truck-img.png);
+  background-repeat: no-repeat;
+}
+
+.blue-png h3 {
+  margin-top: -300px;
+  width: 362px;
+  height: 109px;
+  font-family: Exo 2;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 60px;
+  margin-left: 90px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contener {
+  width: 1440px;
+  height: 500px;
+  margin: auto;
+}
+.contener .main-screen {
+  width: 1240px;
+  height: 505px;
+  top: 109px;
+  left: 100px;
+  gap: 0px;
+  opacity: 0px;
+  margin: auto;
+  display: flex;
+  margin-top: 109px;
+}
+.contener .main-screen .main-saml-div1 {
+  width: 620px;
+  height: 505px;
+  top: 109px;
+  left: 100px;
+  gap: 0px;
+  opacity: 0px;
+}
+.contener .main-screen .main-saml-div1 .main-saml-div2 img {
+  width: 635px;
+  height: 505px;
+}
+
+.main-saml-div1 h4 {
+  width: 610px;
+  height: 119px;
+  top: 190px;
+  left: 100px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Exo 2;
+  font-size: 52px;
+  font-weight: 600;
+  line-height: 65px;
+  text-align: left;
+  margin-top: 81px;
+}
+
+.main-saml-div1 p {
+  width: 525px;
+  height: 66px;
+  top: 349px;
+  opacity: 0px;
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400px;
+  text-align: left;
+  margin-top: 40px;
+}
+
+.main-saml-div1 h5 {
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  margin-top: 40px;
+}/*# sourceMappingURL=main.css.map */
