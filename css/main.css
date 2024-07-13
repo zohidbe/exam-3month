@@ -98,7 +98,6 @@
 .why-us-card {
   width: 1242px;
   height: 748px;
-  background-color: black;
   margin: auto;
 }
 
@@ -107,7 +106,6 @@
   top: 0;
   width: 1240px;
   height: 453px;
-  background-color: burlywood;
   background-image: url(/img/truck-img.png);
   background-repeat: no-repeat;
 }
@@ -121,6 +119,214 @@
   font-weight: 600;
   line-height: 60px;
   margin-left: 90px;
+}
+
+.contener-for-2-div {
+  width: 980px;
+  height: 80px;
+  margin: auto;
+  display: flex;
+}
+.contener-for-2-div .contener-for-1-div {
+  width: 490px;
+  display: flex;
+  gap: 40px;
+  height: 80px;
+}
+.contener-for-2-div .contener-for-1-div .div-for-img-close img {
+  width: 80px;
+  height: 80px;
+}
+
+.div-for-text h5 {
+  width: 327px;
+  height: 21px;
+  font-family: Exo 2;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+}
+
+.div-for-text p {
+  width: 291px;
+  height: 41px;
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.contener-for-2-div {
+  margin-top: 50px;
+}
+
+.our-works-div {
+  width: 1239px;
+  height: 618px;
+  border-radius: 10px 0px 0px 0px;
+  margin: auto;
+}
+
+.our-works-div h2 {
+  width: 687px;
+  height: 49px;
+  font-family: Exo 2;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 60px;
+  text-align: left;
+}
+
+.our-works-div p {
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  width: 459px;
+  height: 41px;
+  margin-top: 30px;
+}
+
+.father-big-three-div {
+  display: flex;
+  gap: 30px;
+  margin-top: 56px;
+}
+
+.thre-big-div {
+  width: 393px;
+  height: 440px;
+  border-radius: 10px 0px 0px 0px;
+}
+
+.for-text-1 {
+  margin-left: 32px;
+  margin-top: 32px;
+}
+
+.for-text-1 h5 {
+  font-family: Exo 2;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  width: 327px;
+  height: 21px;
+}
+
+.for-text-1 p {
+  width: 291px;
+  height: 41px;
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 16px;
+}
+
+.for-text-1 h4 {
+  font-family: Exo 2;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 21.6px;
+  width: 92px;
+  height: 17px;
+  margin-top: 32px;
+}
+
+.steps-div {
+  width: 1232px;
+  height: 880px;
+  margin: auto;
+}
+
+.step-text h3 {
+  width: 687px;
+  height: 49px;
+  font-family: Exo 2;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 60px;
+}
+
+.step-div-1 {
+  width: 1183px;
+  height: 245px;
+  border-radius: 4px 0px 0px 0px;
+  margin: auto;
+  display: flex;
+  gap: 56px;
+}
+
+.step-div-1 img {
+  padding: 32px;
+}
+
+.step-div-text h4 {
+  font-family: Exo 2;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 25px;
+  text-align: left;
+  width: 258px;
+  height: 20px;
+  margin-top: 32px;
+}
+
+.step-div-text p {
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  width: 568px;
+  height: 88px;
+  margin-top: 18px;
+}
+
+.line1 {
+  width: 86px;
+  height: 0px;
+  top: 2828px;
+  left: 632px;
+  gap: 0px;
+  border: 3px 0px 0px 0px;
+  opacity: 0px;
+  border: 3px solid #FFCE50;
+  margin-top: 30px;
+}
+
+.step-div-2 {
+  width: 1183px;
+  height: 245px;
+  border-radius: 4px 0px 0px 0px;
+  margin: auto;
+  display: flex;
+  gap: 56px;
+  margin-top: 24px;
+}
+
+.step-div-2 img {
+  padding: 32px;
+}
+
+.step-div-3 {
+  width: 1183px;
+  height: 245px;
+  border-radius: 4px 0px 0px 0px;
+  margin: auto;
+  display: flex;
+  gap: 56px;
+  margin-top: 24px;
+}
+
+.step-div-3 img {
+  padding: 32px;
+}
+
+.vidios-page video {
+  width: 1245px;
+  height: 580px;
 }
 
 * {

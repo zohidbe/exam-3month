@@ -1,28 +1,63 @@
 .why-us-card {
  width: 1242px;
 height: 748px;
-background-color: black;
 margin: auto;
 }
 
 .blue-png {
-    position: relative;
-    top: 0;
+position: relative;
+top: 0;
 width: 1240px;
 height: 453px;
-background-color: burlywood;
 background-image: url(/img/truck-img.png);
 background-repeat: no-repeat;
 }
 
 .blue-png h3 {
 margin-top: -300px;
- width: 362px;
+width: 362px;
 height: 109px;
 font-family: Exo 2;
 font-size: 48px;
 font-weight: 600;
 line-height: 60px;
 margin-left: 90px;
+}
 
+.contener-for-2-div {
+width: 980px;
+height: 80px;
+margin: auto;
+display: flex;
+       .contener-for-1-div {
+width: 490px;
+display: flex;
+gap: 40px;
+height: 80px;
+   .div-for-img-close img {
+width: 80px;
+height: 80px; 
+ } 
+  } 
+}
+.div-for-text h5 {
+    width: 327px;
+    height: 21px;
+    font-family: Exo 2;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+}
+
+.div-for-text p {
+width: 291px;
+height: 41px;
+font-family: PT Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+}
+
+.contener-for-2-div {
+    margin-top: 50px;
 }
