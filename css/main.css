@@ -326,7 +326,119 @@
 
 .vidios-page video {
   width: 1245px;
-  height: 580px;
+  height: 678px;
+}
+
+.foter-div {
+  width: 1245px;
+  height: 365px;
+  background: #0B7572;
+  display: flex;
+}
+
+.logo-text strong {
+  font-family: Familjen Grotesk;
+  font-size: 60px;
+  font-weight: 500;
+  line-height: 90px;
+  letter-spacing: 0.16em;
+  text-align: left;
+  margin-left: 95px;
+  position: relative;
+  top: 59px;
+}
+
+.foter-div-last {
+  width: 350px;
+  height: 160px;
+  display: flex;
+  margin-left: 154px;
+  margin-top: 59px;
+  gap: 97px;
+}
+
+.foter-p {
+  font-family: Exo 2;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 19.5px;
+  letter-spacing: 0.16em;
+  text-align: center;
+  width: 130px;
+  height: 12px;
+  margin-top: 40px;
+}
+
+.foter-pd-2 {
+  font-family: "Exo" 2;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 19.5px;
+  letter-spacing: 0.16em;
+  text-align: center;
+  width: 130px;
+  height: 12px;
+  margin-top: 25px;
+}
+
+.div-1pdp {
+  width: 125px;
+  height: 160px;
+  margin-top: 60px;
+  margin-left: 150px;
+}
+
+.div-1pdp p {
+  margin: 21px;
+  width: 106px;
+  height: 12px;
+  font-family: Exo 2;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 19.5px;
+  letter-spacing: 0.16em;
+  text-align: center;
+  color: #fff;
+}
+
+.div-2pdp {
+  width: 125px;
+  height: 160px;
+  margin-top: 60px;
+  margin-left: 50px;
+}
+
+.div-2pdp p {
+  margin: 15px;
+  width: 111px;
+  height: 12px;
+  font-family: Exo 2;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 19.5px;
+  letter-spacing: 0.16em;
+  text-align: center;
+  color: #fff;
+}
+
+.div-3pdp {
+  width: 271px;
+  height: 161px;
+  margin-top: 60px;
+  margin-left: 160px;
+}
+
+.nomer-telephone {
+  width: 151px;
+  height: 27px;
+}
+
+.nomer-telephone h5 {
+  margin-top: 32px;
+}
+
+.foter-div {
+  margin-top: 166px;
 }
 
 * {
